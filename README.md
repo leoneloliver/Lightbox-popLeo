@@ -9,6 +9,7 @@ A very light image gallery plugin.
 ####Including files for your webpage
 
 CSS file after all css: `<link rel="stylesheet" href="css/popleo.min.css">`.
+
 Javascript file after all js:  `<script type="text/javascript" src="js/popleo.min.js"></script>`.
 
 Now you need to have a special div with id (popLeo) envolving every images.
