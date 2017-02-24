@@ -1,0 +1,1 @@
+#popLeo img,.btn-popClose{cursor:pointer}body{padding:0;margin:0}#popContent img{width:600px}#popContent{clear:both;text-align:center;width:100%;height:100%;position:fixed;background:rgba(0,0,0,.8);z-index:999999999999;margin-top:0;top:0;padding-top:10%;display:none}.btn-popClose{max-width:600px;margin:0 auto;text-align:right;color:#f7f7f7;font-size:18px}
