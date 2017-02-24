@@ -12,7 +12,7 @@ CSS file after all css: `<link rel="stylesheet" href="css/popleo.min.css">`.
 
 Javascript file after all js:  `<script type="text/javascript" src="js/popleo.min.js"></script>`.
 
-Now you need to have a special div with id (popLeo) envolving every images.
+Now you need to have a special div with id (popLeo) involving every images in the gallery.
 
 Exemple:
 ```html
@@ -24,3 +24,6 @@ Exemple:
   </div>
 </div>
 ```
+
+Live Demo [click here](http://onclickmidia.net/ES6/)
+
