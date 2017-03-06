@@ -1,10 +1,12 @@
 # Lightbox popLeo
 
 A very light image gallery plugin.
+Fast and Easy Implementation.
 
 ##Getting started
 
-- It requires Jquery.js
+- It requires Jquery.js plugin.
+jQuery CDN – Latest Stable Versions [click here](https://code.jquery.com/)
 
 ####Including files for your webpage
 
